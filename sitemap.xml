@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Pagina principală -->
+  <url>
+    <loc>https://tech-dot-bin.github.io/Portofoliu/</loc>
+    <lastmod>2025-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Imagine Open Graph -->
+  <url>
+    <loc>https://tech-dot-bin.github.io/Portofoliu/assets/Tech.bin.jpg</loc>
+    <lastmod>2025-08-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- Favicon -->
+  <url>
+    <loc>https://tech-dot-bin.github.io/Portofoliu/assets/Tech.bin-DlR6NmdQ.png</loc>
+    <lastmod>2025-08-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+
+  <!-- Imagine Schema.org -->
+  <url>
+    <loc>https://tech-dot-bin.github.io/Portofoliu/assets/Tech.bin.png</loc>
+    <lastmod>2025-08-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+
+  <!-- Fișier CSS -->
+  <url>
+    <loc>https://tech-dot-bin.github.io/Portofoliu/assets/index-DRghVuMX.css</loc>
+    <lastmod>2025-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <!-- Fișier JS -->
+  <url>
+    <loc>https://tech-dot-bin.github.io/Portofoliu/assets/index-BW9zCt-o.js</loc>
+    <lastmod>2025-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+</urlset>
