@@ -5,12 +5,13 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint .",
-    "deploy": "gh-pages -d dist",
-    "preview": "vite preview"
-  },
+  "dev": "vite",
+  "build": "vite build",
+  "lint": "eslint .",
+  "preview": "vite preview",
+  "deploy": "npm run build && git add -f dist && git commit -m \"Deploy\" --no-verify && git subtree push --prefix dist origin gh-pages"
+},
+
   "dependencies": {
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
