@@ -1,4 +1,5 @@
 {
+  "homepage": "https://tech-dot-bin.github.io/Portofoliu/",
   "name": "portofloliu",
   "private": true,
   "version": "0.0.0",
@@ -7,6 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
+    "deploy": "gh-pages -d build",
     "preview": "vite preview"
   },
   "dependencies": {

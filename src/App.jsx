@@ -22,7 +22,7 @@ function App() {
       <Hero />
       <h1>Proiecte</h1>
       <div className="projects">
-        <ProjectCard title="Portofoliu" description="Portofoliul meu" link="#"/>
+        <ProjectCard title="Portofoliu" description="Portofoliul meu" link="https://github.com/tech-dot-bin/Portofoliu"/>
         <ProjectCard title="Counter" description="Un counter simplu." link="#"/>
         <ProjectCard title="Temporizator/Cronometru" description="Un treporizator/cronometru simplu cu functi avansate." link="#"/>
         <ProjectCard title="TODO App" description="O aplicatie unde poti sa iti organizezi usor taskurile zilnice." link="#"/>
