@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Permite accesul la fișierele CSS, JS, imagini etc.
+Allow: /assets/
+
+# Specifică sitemap-ul pentru indexare eficientă
+Sitemap: https://tech-dot-bin.github.io/Portofoliu/sitemap.xml
+
+# Evită blocarea de resurse importante
+Allow: /Portofoliu/
+
+# Opțional: dacă folosești canonical pe alt domeniu, poți adăuga o notă
+ Host: https://tech-dot-bin.github.io
